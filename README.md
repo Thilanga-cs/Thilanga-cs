@@ -2,7 +2,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Thilanga Dilshan
 <h3 align="center">On a journey to master network security, one step at a time 🚀.</h3>
 
-#### My Topic 📌
+
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Topic </h2>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 -  🔭 I’m currently working on **Network Monitoring Dashboard 🌐📊**
 
 - 🌱 I’m currently learning **Penetration testing 🔓🕵️‍♂️**
@@ -33,8 +36,9 @@
 <span>
   <img src="https://img.shields.io/badge/Metasploit-4CAF50?style=for-the-badge&logo=metasploit&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FBC02D&color=000000">
-  
-### Databases:
+	
+  -------------------
+  <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">  Databases </h2>
 
 
 
@@ -62,6 +66,4 @@
 </p>
 
 
-<p>Total visitors till now 👇❤️</p>
-<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
