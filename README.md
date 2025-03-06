@@ -32,8 +32,29 @@
 
 <h4> Other Tools and Technologies </h4>
 <span>
-<img src="https://img.shields.io/badge/Linux-FBC02D?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Metasploit-4CAF50?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-4CAF50?style=for-the-badge&logo=metasploit&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FBC02D&color=000000">
+  
+### Databases:
 
+
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
 </span>
+<h3 align="center" >Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/nitin-dahiya/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nitindahiya199">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+           <a style="margin-left: 10px;" target="_blank" href="mailto:nitindahiya00000@gmail.com">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+      </div>
+
+</p>
