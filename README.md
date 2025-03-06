@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thilanga Dilshan</h1>
-<h3 align="center">On a journey to master network security, one step at a time.</h3>
+<h3 align="center">On a journey to master network security, one step at a time 🚀.</h3>
 
-- 🔭 I’m currently working on **Network Monitoring Dashboard**
+#### My Topic 📌
+- 🔭 I’m currently working on **Network Monitoring Dashboard 🌐📊**
 
-- 🌱 I’m currently learning **Penetration testing**
+- 🌱 I’m currently learning **Penetration testing 🔓🕵️‍♂️**
 
 - 👯 I’m looking to collaborate on **Open-source cybersecurity projects 🔓**
 
