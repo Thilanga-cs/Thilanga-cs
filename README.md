@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **amthilanga@gmail.com**
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+-------------------
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Stuff I Know</h2>
 
@@ -39,9 +38,12 @@
 
 
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+<p align="center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Stay%20resilient,%20innovate,%20and%20protect.%20With%20dedication,%20focus,%20and%20strategic%20vision,%20you%E2%80%99ll%20master%20cybersecurity%20and%20safeguard%20the%20digital%20world.%20&quoteCategory=programming">
+    </a>
 </p>
+
 
 </span>
 <h3 align="center" >Connect with me 🤝 </h3>
@@ -58,3 +60,8 @@
       </div>
 
 </p>
+
+
+<p>Total visitors till now 👇❤️</p>
+<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
