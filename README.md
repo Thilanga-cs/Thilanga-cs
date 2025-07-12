@@ -68,7 +68,7 @@
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a target="_blank" href="https://www.linkedin.com/in/nitin-dahiya/">
+        <a target="_blank" href="[https://www.linkedin.com/in/nitin-dahiya/](https://www.linkedin.com/in/thilanga-dilshan-78b22734a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;">
         </a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/nitindahiya199">
