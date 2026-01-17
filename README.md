@@ -1,3 +1,4 @@
+<pre>
 $ whoami
 Thilanga Dilshan
 
@@ -8,10 +9,10 @@ Focused on building hands-on skills through labs, projects,
 and continuous practice.
 
 $ cat focus_areas.txt
-• 🐧 Linux & Kali Linux
-• 🌐 Networking fundamentals
-• 🛡️ Ethical hacking basics
-• 🔁 Security operations
+🐧 Linux & Kali Linux
+🌐 Networking fundamentals
+🛡️ Ethical hacking basics
+🔁 Security operations
 
 $ cat tools.txt
 • Linux / Kali Linux
@@ -23,3 +24,4 @@ $ cat goals.txt
 - Build a strong foundation in cybersecurity
 - Document learning through practical labs
 - Progress toward advanced security domains
+</pre>
