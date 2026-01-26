@@ -1,3 +1,5 @@
+
+  <pre> 
 [thilanga@arch ~]$ whoami
 Thilanga Dilshan
 
@@ -22,6 +24,8 @@ and continuous practice.
 [thilanga@arch ~]$ cat goals.txt
 - Build a strong foundation in cybersecurity
 - Document learning through practical labs
-- Progress toward advanced security domains
+- Progress toward advanced security domains </pre>
 
 # Status: Learning | Practicing | Building
+
+  
