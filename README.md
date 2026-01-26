@@ -1,4 +1,3 @@
-<pre>
 $ whoami
 Thilanga Dilshan
 
@@ -24,4 +23,3 @@ $ cat goals.txt
 - Build a strong foundation in cybersecurity
 - Document learning through practical labs
 - Progress toward advanced security domains
-</pre>
